@@ -1,6 +1,19 @@
-
 .top{
-    background-color: bisque;
-   border-color: black;
-   border-width: 2px;
+   background-color: black;
+   color: white;
+   padding: 15px;
 }
+nav{
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
+li,h1,ul{
+    display: inline;
+    }
+    ul{
+        margin-left: 60%;
+    }
+    li{
+        margin: 20px;
+    }
