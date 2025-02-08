@@ -1,7 +1,6 @@
-*{
-    margin: 1;
-    padding: 1;
-}
-h1{
+
+.top{
     background-color: bisque;
+   border-color: black;
+   border-width: 2px;
 }
