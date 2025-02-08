@@ -1,14 +1,14 @@
 .top{
    background-color: black;
    color: white;
-   padding: 15px;
+   padding: 5px;
 }
 nav{
     background-color: black;
     color: white;
-    padding: 15px;
+    padding: 5px;
 }
-li,h1,ul{
+li,h2,ul{
     display: inline;
     }
     ul{
@@ -17,3 +17,5 @@ li,h1,ul{
     li{
         margin: 20px;
     }
+
+
